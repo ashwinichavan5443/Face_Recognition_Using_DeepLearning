@@ -3,3 +3,4 @@
 - OpenCV
 - Python
 - Deep learning
+<p>We will use deep metric learning concept for Face Recognition</p>
