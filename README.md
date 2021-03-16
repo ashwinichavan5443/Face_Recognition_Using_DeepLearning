@@ -4,3 +4,4 @@
 - Python
 - Deep learning
 <p>We will use deep metric learning concept for Face Recognition</p>
+<b>Following are steps for creating Face Recognition project</b>
