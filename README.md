@@ -20,4 +20,4 @@
   <li>Use these embeddings to recognize the faces of the characters in both images and video streams</li>
 </ul>  
 <p>We certainly could train a network from scratch or even fine-tune the weights of an existing model but that is more than likely overkill for many projects. Furthermore, you would need a lot of images to train the network from scratch.</p>
-<p>For training and testing Face Recognition run colab file FR.ipynb</p>
+<b><p>For training and testing Face Recognition run colab file FR.ipynb</p></b>
