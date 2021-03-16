@@ -14,6 +14,6 @@
 -pip install imutils<br>
 <b>Step 2: Create directory structure as following:</b><br>
 <img src="https://github.com/ashwinichavan5443/Face_Recognition_Using_DeepLearning/blob/master/dir_structure.jpg"></img>
-<b>Step 3: Train Model for Face Recognition 
+<b>Step 3: Train Model for Face Recognition </b><br>
  - Create the 128-d embeddings for each face in the dataset
  - Use these embeddings to recognize the faces of the characters in both images and video streams
