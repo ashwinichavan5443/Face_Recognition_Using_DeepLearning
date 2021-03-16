@@ -17,3 +17,4 @@
 <b>Step 3: Train Model for Face Recognition </b><br>
 - Create the 128-d embeddings for each face in the dataset
 - Use these embeddings to recognize the faces of the characters in both images and video streams
+<p>We certainly could train a network from scratch or even fine-tune the weights of an existing model but that is more than likely overkill for many projects. Furthermore, you would need a lot of images to train the network from scratch.</p>
