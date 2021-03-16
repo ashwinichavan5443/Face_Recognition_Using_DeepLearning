@@ -20,4 +20,11 @@
   <li>Use these embeddings to recognize the faces of the characters in both images and video streams</li>
 </ul>  
 <p>We certainly could train a network from scratch or even fine-tune the weights of an existing model but that is more than likely overkill for many projects. Furthermore, you would need a lot of images to train the network from scratch.</p>
-<b><p>For training and testing Face Recognition run colab file FR.ipynb</p></b>
+<b><p>For training and testing Face Recognition run colab file FR.ipynb</p></b><br>
+<b><h3>OutPut :</h3></b><br>
+<img src="https://github.com/ashwinichavan5443/Face_Recognition_Using_DeepLearning/blob/master/FRresult.jpg"></img>
+<img src="https://github.com/ashwinichavan5443/Face_Recognition_Using_DeepLearning/blob/master/FRresult2.jpg"></img>
+<img src="https://github.com/ashwinichavan5443/Face_Recognition_Using_DeepLearning/blob/master/FRresult3.jpg"></img>
+<img src="https://github.com/ashwinichavan5443/Face_Recognition_Using_DeepLearning/blob/master/FRresult4.jpg"></img>
+
+
