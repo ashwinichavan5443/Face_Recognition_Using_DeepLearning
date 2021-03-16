@@ -7,11 +7,11 @@
 <b>Following are steps for creating Face Recognition project :</b>
 <b>Step 1: Install required libraries</b><br>
 1. Install dilb <br>
--pip install dlib<br>
+ - pip install dlib<br>
 2. Install face_recognition package<br>
--pip install face_recognition<br>
+ - pip install face_recognition<br>
 3. Install imutils <br>
--pip install imutils<br>
+ - pip install imutils<br>
 <b>Step 2: Create directory structure as following:</b><br>
 <img src="https://github.com/ashwinichavan5443/Face_Recognition_Using_DeepLearning/blob/master/dir_structure.jpg"></img>
 <b>Step 3: Train Model for Face Recognition </b><br>
