@@ -23,9 +23,9 @@
 <p>We certainly could train a network from scratch or even fine-tune the weights of an existing model but that is more than likely overkill for many projects. Furthermore, you would need a lot of images to train the network from scratch.</p>
 <b><p>For training and testing Face Recognition run colab file FR.ipynb</p></b>
 <b><h3>Output :</h3></b>
-<img src="https://github.com/ashwinichavan5443/Face_Recognition_Using_DeepLearning/blob/master/FRresult.jpg"></img>
-<img src="https://github.com/ashwinichavan5443/Face_Recognition_Using_DeepLearning/blob/master/FRresult2.jpg"></img>
-<img src="https://github.com/ashwinichavan5443/Face_Recognition_Using_DeepLearning/blob/master/FRresult3.jpg"></img>
-<img src="https://github.com/ashwinichavan5443/Face_Recognition_Using_DeepLearning/blob/master/FRresult4.jpg"></img>
+<img src="https://github.com/ashwinichavan5443/Face_Recognition_Using_DeepLearning/blob/master/Result/FRresult.jpg"></img>
+<img src="https://github.com/ashwinichavan5443/Face_Recognition_Using_DeepLearning/blob/master/Result/FRresult2.jpg"></img>
+<img src="https://github.com/ashwinichavan5443/Face_Recognition_Using_DeepLearning/blob/master/Result/FRresult3.jpg"></img>
+<img src="https://github.com/ashwinichavan5443/Face_Recognition_Using_DeepLearning/blob/master/Result/FRresult4.jpg"></img>
 
 
